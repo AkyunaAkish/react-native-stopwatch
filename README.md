@@ -2,4 +2,4 @@
 
 ### Completed for IOS
 
-![alt text](screenshotOfStopwatchApplication.png "Logo Title Text 1")
+![alt text](screenshotOfStopwatchApplication.png "React Native + Redux Stop Watch")
